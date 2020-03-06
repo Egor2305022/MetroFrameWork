@@ -1,0 +1,12 @@
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\bin\Debug\NuGet.exe.config
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\bin\Debug\NuGet.exe
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\bin\Debug\NuGet.pdb
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\bin\Debug\MetroFramework.dll
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\obj\Debug\NuGet.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\obj\Debug\NuGet.Form1.resources
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\obj\Debug\NuGet.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\obj\Debug\NuGet.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\obj\Debug\NuGet.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\obj\Debug\NuGet.exe
+C:\Users\Xiaomi\source\repos\NuGet\NuGet\obj\Debug\NuGet.pdb
